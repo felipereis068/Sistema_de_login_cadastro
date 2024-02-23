@@ -25,3 +25,5 @@ Funcionalidades Principais
 ![3](https://github.com/felipereis068/Sistema_de_login_cadastro/assets/111073491/8b1ed0aa-8608-42b2-8bfd-02128152f75f)
 ![2](https://github.com/felipereis068/Sistema_de_login_cadastro/assets/111073491/6bffa9f1-fb0d-48c7-b522-445bc873ca6e)
 ![Area restrita](https://github.com/felipereis068/Sistema_de_login_cadastro/assets/111073491/93b22294-37fa-4091-b760-e1b300270687)
+![5](https://github.com/felipereis068/Sistema_de_login_cadastro/assets/111073491/cf1455c1-b8d1-4818-ab8c-9216e02dbb4d)
+![6](https://github.com/felipereis068/Sistema_de_login_cadastro/assets/111073491/0405fa93-9955-4f20-821d-6826f7af6c32)
