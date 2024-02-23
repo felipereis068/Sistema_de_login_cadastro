@@ -18,4 +18,5 @@ Funcionalidades Principais
 - Visual Studio Code
 
 - # Como Usar
-- Faço o clone do projeto, navegue pelo pelo terminal ate a pasta do projeto ative na pasta Script e Activate, para entrar no ambiente virtual do python (venv), navegue até a raiz do projeto cd .., e faça o comando python manage.py runserver para inicial o server
+- Faço o clone do projeto, navegue pelo pelo terminal ate a pasta do projeto ative na pasta Script e Activate, para entrar no ambiente virtual do python (venv), navegue até a raiz do projeto cd .., e faça o comando python manage.py runserver para inicial o server.
+- OBS: Use o banco de dados que desejar, mais navegue dentro do projeto pelo editor de codigo usado, va para o repositorio settings.py navegue até DATABASES e mude as configurações para as suas locais junto com a database ultilizada
