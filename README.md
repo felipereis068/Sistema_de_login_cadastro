@@ -20,7 +20,8 @@ Funcionalidades Principais
 - # Como Usar
 - Faço o clone do projeto, navegue pelo pelo terminal ate a pasta do projeto ative na pasta Script e Activate, para entrar no ambiente virtual do python (venv), navegue até a raiz do projeto cd .., e faça o comando python manage.py runserver para inicial o server.
 - OBS: Use o banco de dados que desejar, mais navegue dentro do projeto pelo editor de codigo usado, va para o repositorio settings.py navegue até DATABASES e mude as configurações para as suas locais junto com a database ultilizada
-- 
+
+  
 ![1](https://github.com/felipereis068/Sistema_de_login_cadastro/assets/111073491/b319ebbc-c864-468c-99d2-e533edb99b4a)
 ![3](https://github.com/felipereis068/Sistema_de_login_cadastro/assets/111073491/8b1ed0aa-8608-42b2-8bfd-02128152f75f)
 ![2](https://github.com/felipereis068/Sistema_de_login_cadastro/assets/111073491/6bffa9f1-fb0d-48c7-b522-445bc873ca6e)
